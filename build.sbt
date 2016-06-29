@@ -18,8 +18,7 @@
  */
 
 
-name := "hive-spark"
-
+name := "hbase-spark"
 
 scalaVersion := "2.11.7"
 
